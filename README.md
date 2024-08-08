@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Suriya-KSM
+- 👋 Hi, I’m @Suriyamoorthy
 - 🌱 I’m currently learning Automation Testing
 - 📫 How to reach me ... suriyamoorthyksm@gmail.com
 
